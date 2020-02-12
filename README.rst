@@ -11,14 +11,11 @@ Installation
 
 Requirements
 ^^^^^^^^^^^^
+Tensorflow 2
 
 Compatibility
 -------------
 
 Licence
 -------
-
-Authors
--------
-
-`resnet` was written by `pvrancx <>`_.
+MIT
