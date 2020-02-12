@@ -1,15 +1,7 @@
 resnet
 ======
 
-.. image:: https://img.shields.io/pypi/v/resnet.svg
-    :target: https://pypi.python.org/pypi/resnet
-    :alt: Latest PyPI version
-
-.. image::  .png
-   :target:  
-   :alt: Latest Travis CI build status
-
-keras resnet implementation
+Basic Keras implementation of ResNet architectures (v1)
 
 Usage
 -----
@@ -29,4 +21,4 @@ Licence
 Authors
 -------
 
-`resnet` was written by `pvrancx <louis@kragniz.eu>`_.
+`resnet` was written by `pvrancx <>`_.

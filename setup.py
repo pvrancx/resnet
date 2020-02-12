@@ -20,21 +20,19 @@ setup(
     license='MIT',
 
     author="pvrancx",
-    author_email="louis@kragniz.eu",
+    author_email="",
 
     description="keras resnet implementation",
     long_description=read("README.rst"),
 
     packages=find_packages(exclude=('tests',)),
 
-    install_requires=[],
+    install_requires=['tensorflow', 'numpy'],
 
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
